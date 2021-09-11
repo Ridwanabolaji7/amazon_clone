@@ -1,0 +1,26 @@
+.productCart {
+  display: flex;
+  margin: 20px 0;
+}
+.productCartImage {
+  object-fit: fill;
+  width: 160px;
+  height: 160px;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+.productInfo {
+  padding-left: 20px;
+}
+.productCartTItle {
+  font-weight: 600;
+  font-size: 16px;
+}
+.productCartPrice {
+}
+.productInfo > button {
+  background-color: #f0c14b;
+  border: 1px solid;
+  margin-top: 10px;
+  border-color: #a88734;
+}

@@ -1,0 +1,23 @@
+.navLinks {
+  background-color: #232f3e;
+  color: white;
+  height: 40px;
+}
+.navLinksOuter {
+  width: 70%;
+  margin: auto;
+  padding: 10px;
+}
+.navLinksOuter a {
+  color: whitesmoke;
+  text-decoration: none;
+  cursor: pointer;
+  padding: 5px;
+  margin-top: 5px;
+  margin-right: 10px;
+}
+
+.navLinksOuter a:hover {
+  border: 1px solid white;
+  border-radius: 4px;
+}

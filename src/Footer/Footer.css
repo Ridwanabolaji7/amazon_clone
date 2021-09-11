@@ -1,0 +1,21 @@
+.footer {
+  background-color: #232f3e;
+  width: 100%;
+  min-height: 200px;
+  color: whitesmoke;
+}
+
+.footerTop {
+  background-color: #354558;
+  min-height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.footerLink {
+  width: 70%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
